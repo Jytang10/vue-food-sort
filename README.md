@@ -1,4 +1,4 @@
-# vue-cart
+# vue-food-finder
 
 ## Project setup
 ```
